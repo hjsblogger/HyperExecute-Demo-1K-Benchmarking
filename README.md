@@ -57,3 +57,13 @@ dotnet build HyperTestDemos.sln -c Debug
 ```bash
 dotnet test HyperTestDemos.sln
 ```
+
+## Benchmarking Information:
+
+### LambdaTest Selenium Grid (25 Parallel Sessions)
+
+<img alt="LambdaTest Grid Time Execution" src="https://user-images.githubusercontent.com/1688653/172609524-0547f6a8-ecd0-494b-ade5-3fbd26d42480.png">
+
+### HyperExecute Grid (25 Parallel Sessions)
+<img alt="LambdaTest HyperExecute Grid Time Execution" src="https://user-images.githubusercontent.com/1688653/172609550-7535a3f9-77be-4b03-a017-e28d2aa74123.png">
+
