@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/lambdatest/.dotnet/store/|arch|/|tfm|",
+      "/Users/lambdatest/.nuget/packages"
+    ]
+  }
+}

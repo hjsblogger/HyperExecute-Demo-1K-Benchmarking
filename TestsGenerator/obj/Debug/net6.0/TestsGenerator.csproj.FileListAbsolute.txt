@@ -1,0 +1,30 @@
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/bin/Debug/net6.0/TestsGenerator
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/bin/Debug/net6.0/TestsGenerator.deps.json
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/bin/Debug/net6.0/TestsGenerator.runtimeconfig.json
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/bin/Debug/net6.0/TestsGenerator.dll
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/bin/Debug/net6.0/TestsGenerator.pdb
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/TestsGenerator.csproj.AssemblyReference.cache
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/TestsGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/TestsGenerator.AssemblyInfoInputs.cache
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/TestsGenerator.AssemblyInfo.cs
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/TestsGenerator.csproj.CoreCompileInputs.cache
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/TestsGenerator.dll
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/refint/TestsGenerator.dll
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/TestsGenerator.pdb
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/TestsGenerator.genruntimeconfig.cache
+/Users/lambdatest/Documents/HyperTestDemos 2/TestsGenerator/obj/Debug/net6.0/ref/TestsGenerator.dll
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/bin/Debug/net6.0/TestsGenerator
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/bin/Debug/net6.0/TestsGenerator.deps.json
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/bin/Debug/net6.0/TestsGenerator.runtimeconfig.json
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/bin/Debug/net6.0/TestsGenerator.dll
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/bin/Debug/net6.0/TestsGenerator.pdb
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/TestsGenerator.csproj.AssemblyReference.cache
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/TestsGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/TestsGenerator.AssemblyInfoInputs.cache
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/TestsGenerator.AssemblyInfo.cs
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/TestsGenerator.csproj.CoreCompileInputs.cache
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/TestsGenerator.dll
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/refint/TestsGenerator.dll
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/TestsGenerator.pdb
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/TestsGenerator.genruntimeconfig.cache
+/Users/lambdatest/Documents/Webinar_Sample/TestsGenerator/obj/Debug/net6.0/ref/TestsGenerator.dll

@@ -1,0 +1,51 @@
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.deps.json
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.runtimeconfig.json
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.runtimeconfig.dev.json
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.dll
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.pdb
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.AssemblyInfoInputs.cache
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.AssemblyInfo.cs
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.csproj.CoreCompileInputs.cache
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.dll
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.pdb
+/Users/lambdatest/Projects/HyperTestDiscoverer/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.genruntimeconfig.cache
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.deps.json
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.runtimeconfig.json
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.runtimeconfig.dev.json
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.dll
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.pdb
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.csprojAssemblyReference.cache
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.AssemblyInfoInputs.cache
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.AssemblyInfo.cs
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.csproj.CoreCompileInputs.cache
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.dll
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.pdb
+/Users/lambdatest/Documents/HyperTestDemos/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.genruntimeconfig.cache
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.deps.json
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.runtimeconfig.json
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.runtimeconfig.dev.json
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.dll
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.pdb
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.csproj.AssemblyReference.cache
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.AssemblyInfoInputs.cache
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.AssemblyInfo.cs
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.csproj.CoreCompileInputs.cache
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.dll
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.pdb
+/Users/lambdatest/Documents/HyperTestDemos 2/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.genruntimeconfig.cache
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.deps.json
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.runtimeconfig.json
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.runtimeconfig.dev.json
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.dll
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/bin/Debug/netcoreapp3.1/HyperTestDiscoverer.pdb
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.csproj.AssemblyReference.cache
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.AssemblyInfoInputs.cache
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.AssemblyInfo.cs
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.csproj.CoreCompileInputs.cache
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.dll
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.pdb
+/Users/lambdatest/Documents/Webinar_Sample/HyperTestDiscoverer/obj/Debug/netcoreapp3.1/HyperTestDiscoverer.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+---
+version: 0.1
+globalTimeout: 400
+testSuiteTimeout: 400
+testSuiteStep: 400
+
+runson: win
+
+autosplit: true
+retryOnFailure: false
+smartGrid: true
+cacheTestURL: true
+maxRetries: 5
+concurrency: 25
+
+
+project: HyperTestDemos.sln
+
+pre:
+  - nuget locals all -clear
+  - dotnet build HyperTestDemos.sln -c Debug
+post:
+  - ls
+testDiscovery:
+  type: raw
+  mode: dynamic
+  # command: grep 'class' HyperTestDemo -ir --include=\*.cs --exclude=DriverFactory.cs --exclude=HyperTestDemo.AssemblyInfo.cs | awk '{print$4}'
+  command: dotnet run --project HyperTestDiscoverer/HyperTestDiscoverer.csproj HyperTestDemo/bin/Debug/netcoreapp3.1/HyperTestDemo.dll
+
+testRunnerCommand: dotnet test HyperTestDemos.sln --filter FullyQualifiedName=$test
+uploadArtefacts:
+ - name: SetupTime
+   path:
+     - SetupTime.csv
+ - name: ExecutionTime
+   path:
+     - ExecutionTime.csv

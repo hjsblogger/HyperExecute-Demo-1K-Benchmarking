@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTestDiscoverer", "HyperTestDiscoverer\HyperTestDiscoverer.csproj", "{F005AF1B-4512-471E-A55F-8CDDD87B9A03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F005AF1B-4512-471E-A55F-8CDDD87B9A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F005AF1B-4512-471E-A55F-8CDDD87B9A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F005AF1B-4512-471E-A55F-8CDDD87B9A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F005AF1B-4512-471E-A55F-8CDDD87B9A03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E16889-5ADE-4299-8FEA-D9C20C227425}
+	EndGlobalSection
+EndGlobal

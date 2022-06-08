@@ -1,0 +1,21 @@
+---
+version: 0.1
+globalTimeout: 90
+testSuiteTimeout: 90
+testSuiteStep: 90
+
+runson: win
+
+matrix:
+  project: ["HyperTestDemos.sln"]
+  class: ["CheckoutPage1Tests", "CheckoutPage2Tests", "CheckoutPage3Tests",
+          "CheckoutPage4Tests", "CheckoutPage5Tests", "CheckoutPage6Tests",
+          "CheckoutPage7Tests", "CheckoutPage8Tests", "CheckoutPage9Tests",
+          "CheckoutPage10Tests", "DemoTests"]
+
+pre:
+  - nuget locals all -clear
+  - dotnet build HyperTestDemos.sln -c Debug
+
+testSuites:
+  - dotnet test $project --filter Name~$class
